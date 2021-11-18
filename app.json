@@ -1,10 +1,11 @@
 {
-  "name": "java-jupyter",
+  "name": "java jupyter",
   "description": "A simple multilenguage jupyter app",
   "repository": "https://github.com/nicolalandro/java_junit_jupyter.git", 
   "keywords": [
     "productivity",
     "java",
     "jupyter"
-  ],
+  ]
 }
+

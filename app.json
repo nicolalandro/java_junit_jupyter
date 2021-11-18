@@ -1,7 +1,7 @@
 {
   "name": "java jupyter",
   "description": "A simple multilenguage jupyter app",
-  "repository": "https://github.com/nicolalandro/java_junit_jupyter.git", 
+  "repository": "https://github.com/nicolalandro/java_junit_jupyter.git",
   "keywords": [
     "productivity",
     "java",
@@ -13,12 +13,10 @@
       "quantity": 1
     }
   },
-  "env":{
+  "env": {
     "JUPYTER_TOKEN": {
       "description": "A token to put into the url to use jupyter.",
       "value": ""
-    },
+    }
   }
-
 }
-

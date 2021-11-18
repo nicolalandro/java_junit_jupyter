@@ -1,7 +1,12 @@
 {
-  "name": "131 Dog's Species",
-  "description": "A simple specie of dogs classifier",
+  "name": "java-jupyter",
+  "description": "A simple multilenguage jupyter app",
   "repository": "https://github.com/nicolalandro/java_junit_jupyter.git", 
+  "keywords": [
+    "productivity",
+    "java",
+    "jupyter"
+  ],
   "stack": "container",
   "formation": {
     "worker": {

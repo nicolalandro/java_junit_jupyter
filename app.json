@@ -12,6 +12,12 @@
     "web": {
       "quantity": 1
     }
+  },
+  "env":{
+    "JUPYTER_TOKEN": {
+      "description": "A token to put into the url to use jupyter.",
+      "value": ""
+    },
   }
 
 }

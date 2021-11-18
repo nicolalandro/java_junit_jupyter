@@ -7,9 +7,4 @@
     "java",
     "jupyter"
   ],
-  "stack": "container",
-  "formation": {
-    "worker": {
-      "quantity": 1
-    }
-  }
+}

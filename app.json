@@ -1,4 +1,8 @@
- "stack": "container",
+{
+  "name": "131 Dog's Species",
+  "description": "A simple specie of dogs classifier",
+  "repository": "https://github.com/nicolalandro/java_junit_jupyter.git", 
+  "stack": "container",
   "formation": {
     "worker": {
       "quantity": 1

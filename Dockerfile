@@ -19,3 +19,4 @@ COPY ./notebooks ${HOME}
 USER ${USER}
 
 RUN cd /server && ./almond --install
+RUN iruby register --force

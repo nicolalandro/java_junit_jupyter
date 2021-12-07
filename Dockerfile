@@ -2,7 +2,7 @@ FROM nicolalandro/multilanguage-jupyter:1.0
 
 ADD notebooks /server/notebook
 
-RUN pip install --no-cache notebook jupyterlab
+RUN pip3 install --no-cache notebook jupyterlab
 # create user with a home directory
 
 ARG NB_USER

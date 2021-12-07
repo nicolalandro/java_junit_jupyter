@@ -15,4 +15,7 @@ RUN adduser --disabled-password \
     --uid ${NB_UID} \
     ${NB_USER}
 WORKDIR ${HOME}
+COPY notebooks/* ${HOME}
 USER ${USER}
+
+RUN cd /server && ./almond --install

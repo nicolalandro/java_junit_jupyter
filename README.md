@@ -1,4 +1,5 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nicolalandro/java_junit_jupyter.git)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nicolalandro/java_junit_jupyter/binder)
 
 
 # Java Junit Jupyter

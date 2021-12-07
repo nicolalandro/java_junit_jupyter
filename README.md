@@ -6,7 +6,7 @@
 This repo is able to deploy a jupyter that support multiple lenguages and it contains some notebooks about junit testing.
 
 ## Use with binder
-* click on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nicolalandro/java_junit_jupyter/binder) and wait
+* click on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nicolalandro/java_junit_jupyter/main) and wait
 
 ## Heroku Deploy Guide
 

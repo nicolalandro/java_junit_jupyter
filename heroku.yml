@@ -1,6 +1,6 @@
 build:
   docker:
-    web: Dockerfile
+    web: HerokuDockerfile
 run:
   web: jupyter notebook --ip=0.0.0.0 --port=$PORT --allow-root --NotebookApp.token="$JUPYTER_TOKEN" --no-browser
 

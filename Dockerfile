@@ -19,6 +19,6 @@ USER ${USER}
 
 RUN cd /server && ./almond --install
 RUN iruby register --force
-RUN ijsinstall
+# RUN ijsinstall
 
 COPY ./notebooks ${HOME}
